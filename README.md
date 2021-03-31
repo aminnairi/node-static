@@ -9,13 +9,13 @@ Static file server
 ## Usage
 
 ```console
-$ npx @aminnairi/serve help
+$ npx @aminnairi/static help
 ```
 
 ## Example
 
 ```console
-$ npx @aminnairi/serve from public
+$ npx @aminnairi/static from public
 Serving from /home/user/project/public on http://0.0.0.0:8080 (CTRL-C to stop gracefully)
 ```
 
