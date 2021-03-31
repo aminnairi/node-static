@@ -25,7 +25,7 @@ export default {
     terser()
   ],
   output: {
-    file: resolve("release", "serve.js"),
+    file: resolve("release", "static.js"),
     banner: "#!/usr/bin/env node",
     format: "cjs"
   }
