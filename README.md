@@ -21,7 +21,7 @@ Serving from /home/user/project/public on http://0.0.0.0:8080 (CTRL-C to stop gr
 
 ## Issue
 
-See [`issues`](./issues).
+See [`issues`](../../issues).
 
 ## Changelog
 
